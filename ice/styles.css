@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #5baff0;
+    color: white;
+    text-align: center;
+    font-family: arial, sans-serif;
+    line-height: 2;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1:hover {
+    color: black;
+}
+
+ol {
+    color: black;
+    font-weight: bolder;
+    text-align: left;
+}
+
+img {
+    width: 200px;
+}
+
+.quote {
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+.info {
+    color: black;
+    line-height: normal;
+    font-weight: bold;
+}
