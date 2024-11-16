@@ -255,3 +255,27 @@ footer .social img {
         margin-top: 25px;
     }
 }
+
+.faq_title{
+    background-color: #1F271B;
+    color: #D9C5B2;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 600px;
+}
+
+.faq_msg{
+    text-align: left;
+    background-color: #785964;
+    color: #D9C5B2; 
+    padding: 15px;
+    margin: 15px;
+}
+
+.faq_msg img{
+    float: right;
+    margin: 5px;
+    box-shadow: 5px 5px 10px black;
+}
